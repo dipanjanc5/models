@@ -1,2 +1,2 @@
-# models
-quant financial models
+# rergression
+regression techniques with examples
