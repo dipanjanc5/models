@@ -1,2 +1,2 @@
-# rergression
+# regression
 regression techniques with examples
